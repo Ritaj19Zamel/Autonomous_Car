@@ -1,0 +1,9 @@
+traffic_lights.ipynb  
+you can run it in kaggle where the data found in this link
+https://www.kaggle.com/ahmedibrahimali/traffic-lights/edit
+
+use this to run image
+python3 yolov7_tensorrt_test.py -i path/image.jpg -w path/yolov7.trt -o path/
+
+use this to run video
+python3 yolov7_tensorrt_test.py -v path/video.mp4 -w path/yolov7.trt -o path/
