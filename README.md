@@ -1,8 +1,8 @@
 # Autonomous System For Car
 ## Goal 
-```
+
 The goal of this project is to develop an autonomous car system that can detect and respond to various traffic situations in real-time. The system will be equipped with advanced features such as object detection, Autonomous Lane Navigation, license plate recognition, Road defect detection, Graph Traffic Prediction Graph, RainForcment Driven and Parking rainforcment.
-```
+
 - Object Detection:
 > The system will use various sensors such as cameras and LIDAR to detect traffic signs, traffic lights, pedestrians, and other objects on the road. The system will use state-of-the-art object detection algorithms such as YOLOv7 to accurately detect and classify these objects.
 
