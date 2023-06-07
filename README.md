@@ -9,9 +9,6 @@ The goal of this project is to develop an autonomous car system that can detect 
 - Autonomous Lane Navigation:
 > The system will use computer vision and control algorithms to navigate the car on the road. It will be able to detect the lane markings and stay within the boundaries of the lane.
 
-- License Plate Recognition:
-> The system will be able to detect and read the license plates of vehicles on the road. This information can be used for a variety of purposes such as toll or parking payments, traffic monitoring, and law enforcement.
-
 - Road Defect Detection:
 > The system will be able to detect and report the defects on the road such as potholes, cracks, and other road surface issues. This information can be used to improve road maintenance and safety for all road users.
 
@@ -20,6 +17,3 @@ The goal of this project is to develop an autonomous car system that can detect 
 
 - RainForcment Driven
 > The system will be able to detect and respond to different weather conditions, such as rain, by adjusting the car's speed and handling accordingly to ensure the safety of the vehicle and its passengers.
-
-- Parking rainforcment:
-> The system will also be able to detect and respond to different parking conditions, such as availability of parking spots, and will be able to park the car in the most efficient and safe way.
