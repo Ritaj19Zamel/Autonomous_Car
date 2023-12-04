@@ -15,5 +15,5 @@ The goal of this project is to develop an autonomous car system that can detect 
 - Graph Traffic Prediction:
 > The system will use traffic data and machine learning algorithms to predict traffic patterns and congestion levels. This information can be used to optimize routing and improve the efficiency of traffic flow.
 
-- RainForcment Driven
+- ReinForcment Driven
 > The system will be able to detect and respond to different weather conditions, such as rain, by adjusting the car's speed and handling accordingly to ensure the safety of the vehicle and its passengers.
